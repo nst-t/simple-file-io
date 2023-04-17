@@ -1,0 +1,15 @@
+{
+  "name": "simple-file-io",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "ts-node index"
+  },
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "nstrumenta": "^3.0.42"
+  },
+  "devDependencies": {
+    "@types/minimist": "^1.2.2",
+    "ts-node": "^10.9.1"
+  }
+}
